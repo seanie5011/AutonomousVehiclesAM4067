@@ -1,3 +1,10 @@
+# extra files
+AV_test1_images/
+AV_test2_images/
+AV_test1_ai.mp4
+AV_test2_ai.mp4
+yolov3.weights
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
